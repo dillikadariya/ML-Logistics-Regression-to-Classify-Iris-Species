@@ -3,18 +3,9 @@
 This repository contains the code and report of classifying 3 different species of Iris plant using the Iris dataset and Logistic Regression model.
 After implementing the classification model, learning curves and confusion matrices are used to evaluate its efficiency.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Files](#files)
-- [How to Run](#how-to-run)
-- [Dependencies](#dependencies)
-
 ## Introduction
 
-This assignment explores the relationship between training set size and test accuracy by visualizing learning curves.  A confusion matrix is also generated to evaluate the performance of a Logistic Regression model on the Iris dataset.
+This project implements logistic regression and explores the relationship between training set size and test accuracy by visualizing learning curves.  A confusion matrix is also generated and evaluation metrices are used to access the performance of a Logistic Regression model on the Iris dataset.
 
 ## Methodology
 
@@ -25,9 +16,9 @@ This assignment explores the relationship between training set size and test acc
 
 ## Results
 
-* **Learning Curve:** Plots of different training data sizes vs accuracy.
-* **Confusion Matrix:** Visualization as a heat map 
-* **Key Metrics:** Table with values of accuracy, precision, recall, F1 score, specificity
+* **Learning Curve:** Plots of different training data sizes vs accuracy are shown.
+* **Confusion Matrix:** Visualised as a heat map. 
+* **Key Metrics:** Created a table with values of accuracy, precision, recall, F1 score, specificity for the model.
 
 ## Files
 
