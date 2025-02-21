@@ -11,8 +11,6 @@ After implementing the classification model, learning curves and confusion matri
 - [Files](#files)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
-- [Discussion](#discussion)
-- [Author](#author)
 
 ## Introduction
 
