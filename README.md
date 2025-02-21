@@ -23,7 +23,7 @@ This project implements logistic regression and explores the relationship betwee
 ## Files
 
 * `main.py`: The Python script containing the code for training, evaluating, and plotting.
-* `report.pdf`: The report summarizing the project, including analysis of the results.  (Or `report.md` if you have a markdown report).
+* `logistic regression report.pdf`: The report summarizing the project, including analysis of the results.
 * `README.md`: This file.
 
 ## How to Run
