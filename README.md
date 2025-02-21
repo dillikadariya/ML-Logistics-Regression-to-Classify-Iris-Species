@@ -27,14 +27,14 @@ This assignment explores the relationship between training set size and test acc
 
 ## Results
 
-* **Learning Curve:**
-* **Confusion Matrix:**
-* **Key Metrics:**
+* **Learning Curve:** Plot of the training data size vs accuracy.
+* **Confusion Matrix:** visualized as a heat map 
+* **Key Metrics:** Accuracy, precision, recall, F1 score, specificity
 
 ## Files
 
 * `main.py`: The Python script containing the code for training, evaluating, and plotting.
-* `report.pdf`: The report summarizing the assignment, including analysis of the results.  (Or `report.md` if you have a markdown report).
+* `report.pdf`: The report summarizing the project, including analysis of the results.  (Or `report.md` if you have a markdown report).
 * `README.md`: This file.
 
 ## How to Run
