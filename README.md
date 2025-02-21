@@ -25,9 +25,9 @@ This assignment explores the relationship between training set size and test acc
 
 ## Results
 
-* **Learning Curve:** Plot of the training data size vs accuracy.
-* **Confusion Matrix:** visualized as a heat map 
-* **Key Metrics:** Accuracy, precision, recall, F1 score, specificity
+* **Learning Curve:** Plots of different training data sizes vs accuracy.
+* **Confusion Matrix:** Visualization as a heat map 
+* **Key Metrics:** Table with values of accuracy, precision, recall, F1 score, specificity
 
 ## Files
 
