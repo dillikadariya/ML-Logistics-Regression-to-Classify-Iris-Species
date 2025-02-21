@@ -28,8 +28,8 @@ This project implements logistic regression and explores the relationship betwee
 
 ## How to Run
 
-1. Clone the repository: `git clone [repository URL]`
-2. Navigate to the directory: `cd [repository directory]`
+1. Clone the repository: `git clone https://github.com/dillikadariya/ML-Logistics-Regression-to-Classify-Iris-Species.git`
+2. Navigate to the directory: `cd ML-Logistics-Regression-to-Classify-Iris-Species`
 3. Install the required dependencies (see below).
 4. Run the script: `python main.py`
 
@@ -44,3 +44,6 @@ You can install the dependencies using pip:
 
 ```bash
 pip install scikit-learn matplotlib numpy
+
+## Author
+Dilliram Kadariya
